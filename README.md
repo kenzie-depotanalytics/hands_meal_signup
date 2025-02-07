@@ -1,2 +1,2 @@
-# hands_meal_signup
-hands cg signup
+# SC_Meal_Signup
+Portal for CG members to submit what food they are bringing
